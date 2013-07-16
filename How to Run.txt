@@ -1,0 +1,1 @@
+java -Xmx20m -Dlog4j.configuration=file:///%FLUME_HOME%\conf\log4j.properties -Dflume.root.logger=DEBUG,console -cp "%FLUME_HOME%\lib\*" org.apache.flume.node.Application -f %FLUME_HOME%\conf\flume.conf -n agent
