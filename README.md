@@ -20,10 +20,9 @@ Flume Packaging Version : 1.4.0
 (2) 패키지 다운로드
 
 - C:/flume 디렉토리 생성
-- git clone https://github.com/beyondj2ee/flume-window.git 
+- git clone https://github.com/beyondj2ee/flume-window.git 또는
+Github 오른쪽 메뉴에 "Download Zip" 다운로드 후 압축 해제
 
+![ScreenShot](http://beyondj2ee.pbworks.com/w/file/fetch/67630145/%EC%9D%B4%EB%AF%B8%EC%A7%80%203%21%40%23.png)
 
-
-
-
-
+(3) 
