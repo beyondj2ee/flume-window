@@ -17,7 +17,7 @@ Flume Packaging Version : 1.4.0
 
 - JDK 1.6 이상 설치
 
-(2) 패키지 다운로드
+(2) <strong>패키지 다운로드</strong>
 
 - C:/flume 디렉토리 생성
 - git clone https://github.com/beyondj2ee/flume-window.git 또는
@@ -25,12 +25,12 @@ Github 오른쪽 메뉴에 "Download Zip" 다운로드 후 압축 해제
 
 ![ScreenShot](http://beyondj2ee.pbworks.com/w/file/fetch/67630145/%EC%9D%B4%EB%AF%B8%EC%A7%80%203%21%40%23.png)
 
-(3) 환경 변수 설정
+(3) <strong>환경 변수 설정</strong>
 
 clone 또는 압축 해제된 디렉토리 기준으로 환경 변수를 추가 합니다.
 ![ScreenShot](http://beyondj2ee.pbworks.com/w/file/fetch/67630181/%EC%9D%B4%EB%AF%B8%EC%A7%80%201%21%40%23.png)
 
-(4) Flume 실행 하기
+(4) <strong>Flume 실행 하기</strong>
 
 "How to Run.txt" 파일의 내용을 복사 해서 실행 한다.
 
@@ -42,6 +42,8 @@ java -Xmx20m -Dlog4j.configuration=file:///%FLUME_HOME%\conf\log4j.properties -D
 ![ScreenShot](http://beyondj2ee.pbworks.com/w/file/fetch/67630203/%EC%9D%B4%EB%AF%B8%EC%A7%80%202%21%40%23.png)
 
 
+※ 참고 자료
 
+http://mapredit.blogspot.kr/2012/07/run-flume-13x-on-windows.html
 
 
