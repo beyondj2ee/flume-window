@@ -13,7 +13,7 @@ Flume 배포 버전은 기본적으로 Linux 버전으로 배포가 됩니다.
 Flume Packaging Version : 1.4.0
 
 
-(1) _선행 조건_
+(1) <strong>선행 조건</strong>
 
 - JDK 1.6 이상 설치
 
